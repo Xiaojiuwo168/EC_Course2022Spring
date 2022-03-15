@@ -1,8 +1,8 @@
 # Homework1_EC_2022S
 The first course assignment of Evolutionary Computing 01 in Spring 2022
 
-#****Requirements：
-# Designing a genetic algorithm to solve the first problem, and following the instructions:
+# Requirements：
+# Design a genetic algorithm to solve for the minimum value of dejong1 and dejong2 in a given range and follow the following requirements:
 ## 1. clearly pointintg out the following steps in the implementations:
 - initialization
 - fitness evaluation
