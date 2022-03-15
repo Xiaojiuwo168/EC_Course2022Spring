@@ -26,3 +26,29 @@ The first course assignment of Evolutionary Computing 01 in Spring 2022
  - collecting the fitness values of the same generations in all runs;
  - using boxplot to plot the data collected from the 30 runs;
  - try to conclude something from this figure plotted.
+
+# 要求：
+#设计一个遗传算法来求解dejong1和dejong2在给定范围内的最小值，并遵循以下要求：
+## 1.在实现中明确指出以下步骤：
+- 初始化；
+- 适度值评估；
+- 交叉和变异的选择；
+- 环境选择。
+
+## 2.请根据你自己的喜好来设置以下组件：
+- 交叉、变异、精英主义的概率；
+- 群体的大小，交叉和变异的类型；
+- 等等。
+
+## 3、请独立运行算法至少30次，最后报告平均值和标准值
+
+## 4. 请用任何一次运行的数据画出进化过程
+ - 在某次运行中收集相应的数据（代数以及相应的适度值），例如第五次运行中，适度值为多少...；
+ - 将数据绘制在一个二维轴上；
+ - 横轴表示代数，纵轴表示适度值；
+ - 试着从这个图中得出一些结论。
+
+## 5.请画出同一代在不同运行中的平均值、最大值和最小值（boxplot？）
+ - 收集所有运行中同一世代的适度值；
+ - 使用boxplot绘制从30次运行中收集的数据；
+ - 试着从这幅图中得出一些结论。
